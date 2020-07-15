@@ -20,4 +20,6 @@ Identifying these outliers is the end objective of this visualization and theref
 While the visualization is successful in identifying an outlier prescriber, a domain expert is still needed to identify false positives. Having said that, the visualization still helps in reducing the number of prescribers to be inspected.
 
 Link to Viz: https://public.tableau.com/views/DetectingFraudsinHealthcare/Story1?:display_count=y&:origin=viz_share_link
+
 Link to Video Demo: https://youtu.be/XSvFYj-UmtM
+
